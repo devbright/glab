@@ -1,2 +1,2 @@
 feature1 change
-feature 1.2 change
+feature 1.2 change update
